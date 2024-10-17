@@ -6,7 +6,7 @@ Hi I'm Mackery I exist!
 - I'm a 16 year old developer
 - I'm a boy.
 - I like to code in HaxeFlixel, Python, and C#.
-- I'm taken by a wonderful girl named vee.
+- Alone.
 
 ## Stats
 Heres UUUUUUUUUHHH stats xD
